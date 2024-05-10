@@ -69,7 +69,7 @@ switch (prediction[0].className) {
 복고 스타일이 강한 패션은 아래 결과와 같이 잘 표시해주는걸 알 수 있습니다 <br><br>
 
 ![screencapture-file-C-Users-User-OneDrive-1-AiMl-index-html-2024-04-25-11_24_03](https://github.com/TEEPUT/AI_FashionReader/assets/129711481/8fdfa90d-4acf-45bb-8494-02c88f5d2617)
-스트리트 스타일과 복고 스타일의 혼합적인 패션 스타일인데 아래 결과와 같이 복고 스타일이 좀 더 많은 비중을 차지하는걸 알 수 있습니다
+스트리트 스타일과 복고 스타일의 혼합적인 패션 스타일인데 아래 결과와 같이 복고 스타일이 좀 더 많은 비중을 차지하는걸 알 수 있습니다 <br><br>
 
 
 
